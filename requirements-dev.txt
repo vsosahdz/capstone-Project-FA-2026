@@ -1,0 +1,7 @@
+# Dependencias SOLO para autoría del curso (instructor).
+# Los participantes no necesitan este archivo.
+#
+#   pip install -r requirements.txt -r requirements-dev.txt
+
+nbformat==5.10.4
+nbclient==0.11.0

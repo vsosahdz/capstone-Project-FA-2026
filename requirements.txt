@@ -1,0 +1,15 @@
+# Curso de cierre · procesamiento de datos financieros
+# Versiones fijas: el entorno del día del curso es el mismo que se probó.
+#
+# Instalación:  pip install -r requirements.txt
+# Guía completa: docs/01_INSTALACION.md
+
+pandas==3.0.5
+duckdb==1.5.5
+matplotlib==3.11.1
+pyarrow==25.0.0
+
+# Kernel de Jupyter para VS Code.
+# No hace falta instalar jupyter ni jupyterlab: la extensión Jupyter de
+# VS Code solo necesita ipykernel dentro del entorno virtual.
+ipykernel==7.3.0

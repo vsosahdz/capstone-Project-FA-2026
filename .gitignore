@@ -1,0 +1,27 @@
+# Entorno
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# Herramientas de autoría (no son material del curso)
+.claude/
+
+# ─────────────────────────────────────────────────────────────────────
+# Se libera DESPUÉS del curso: borra estas 4 líneas y haz commit.
+#
+# openspec/ contiene el diseño y las specs del curso, con el guion completo
+# de ejercicios y el giro del reto final. Publicarlo durante el curso
+# equivale a publicar el solucionario.
+openspec/
+_maestros/
+soluciones/
+scripts/
+# ─────────────────────────────────────────────────────────────────────
+
+# Salidas que generan los participantes
+salidas/*.csv
+salidas/*.parquet
+!salidas/.gitkeep

@@ -1,0 +1,602 @@
+planta,centro_costo,anio,mes,monto_presupuesto,cargado_en
+Hermosillo,Mantenimiento,2025,1,"145.200,00",2026-07-01
+Hermosillo,Energía,2025,1,"112.200,00",2026-07-01
+Hermosillo,Nómina Indirecta,2025,1,"105.600,00",2026-07-01
+Hermosillo,Fletes,2025,1,"85.800,00",2026-07-01
+Hermosillo,Refacciones,2025,1,"72.600,00",2026-07-01
+Hermosillo,Calidad,2025,1,"52.800,00",2026-07-01
+Hermosillo,Seguridad,2025,1,"46.200,00",2026-07-01
+Hermosillo,Sistemas,2025,1,"39.600,00",2026-07-01
+Hermosillo,Mantenimiento,2025,2,"145.200,00",2026-07-01
+Hermosillo,Energía,2025,2,"112.200,00",2026-07-01
+Hermosillo,Nómina Indirecta,2025,2,"105.600,00",2026-07-01
+Hermosillo,Fletes,2025,2,"85.800,00",2026-07-01
+Hermosillo,Refacciones,2025,2,"72.600,00",2026-07-01
+Hermosillo,Calidad,2025,2,"52.800,00",2026-07-01
+Hermosillo,Seguridad,2025,2,"46.200,00",2026-07-01
+Hermosillo,Sistemas,2025,2,"39.600,00",2026-07-01
+Hermosillo,Mantenimiento,2025,3,"145.200,00",2026-07-01
+Hermosillo,Energía,2025,3,"112.200,00",2026-07-01
+Hermosillo,Nómina Indirecta,2025,3,"105.600,00",2026-07-01
+Hermosillo,Fletes,2025,3,"85.800,00",2026-07-01
+Hermosillo,Refacciones,2025,3,"72.600,00",2026-07-01
+Hermosillo,Calidad,2025,3,"52.800,00",2026-07-01
+Hermosillo,Seguridad,2025,3,"46.200,00",2026-07-01
+Hermosillo,Sistemas,2025,3,"39.600,00",2026-07-01
+Hermosillo,Mantenimiento,2025,4,"145.200,00",2026-07-01
+Hermosillo,Energía,2025,4,"112.200,00",2026-07-01
+Hermosillo,Nómina Indirecta,2025,4,"105.600,00",2026-07-01
+Hermosillo,Fletes,2025,4,"85.800,00",2026-07-01
+Hermosillo,Refacciones,2025,4,"72.600,00",2026-07-01
+Hermosillo,Calidad,2025,4,"52.800,00",2026-07-01
+Hermosillo,Seguridad,2025,4,"46.200,00",2026-07-01
+Hermosillo,Sistemas,2025,4,"39.600,00",2026-07-01
+Hermosillo,Mantenimiento,2025,5,"145.200,00",2026-07-01
+Hermosillo,Energía,2025,5,"112.200,00",2026-07-01
+Hermosillo,Nómina Indirecta,2025,5,"105.600,00",2026-07-01
+Hermosillo,Fletes,2025,5,"85.800,00",2026-07-01
+Hermosillo,Refacciones,2025,5,"72.600,00",2026-07-01
+Hermosillo,Calidad,2025,5,"52.800,00",2026-07-01
+Hermosillo,Seguridad,2025,5,"46.200,00",2026-07-01
+Hermosillo,Sistemas,2025,5,"39.600,00",2026-07-01
+Hermosillo,Mantenimiento,2025,6,"145.200,00",2026-07-01
+Hermosillo,Energía,2025,6,"112.200,00",2026-07-01
+Hermosillo,Nómina Indirecta,2025,6,"105.600,00",2026-07-01
+Hermosillo,Fletes,2025,6,"85.800,00",2026-07-01
+Hermosillo,Refacciones,2025,6,"72.600,00",2026-07-01
+Hermosillo,Calidad,2025,6,"52.800,00",2026-07-01
+Hermosillo,Seguridad,2025,6,"46.200,00",2026-07-01
+Hermosillo,Sistemas,2025,6,"39.600,00",2026-07-01
+Hermosillo,Mantenimiento,2025,7,"145.200,00",2026-07-01
+Hermosillo,Energía,2025,7,"112.200,00",2026-07-01
+Hermosillo,Nómina Indirecta,2025,7,"105.600,00",2026-07-01
+Hermosillo,Fletes,2025,7,"85.800,00",2026-07-01
+Hermosillo,Refacciones,2025,7,"72.600,00",2026-07-01
+Hermosillo,Calidad,2025,7,"52.800,00",2026-07-01
+Hermosillo,Seguridad,2025,7,"46.200,00",2026-07-01
+Hermosillo,Sistemas,2025,7,"39.600,00",2026-07-01
+Hermosillo,Mantenimiento,2025,8,"145.200,00",2026-07-01
+Hermosillo,Energía,2025,8,"112.200,00",2026-07-01
+Hermosillo,Nómina Indirecta,2025,8,"105.600,00",2026-07-01
+Hermosillo,Fletes,2025,8,"85.800,00",2026-07-01
+Hermosillo,Refacciones,2025,8,"72.600,00",2026-07-01
+Hermosillo,Calidad,2025,8,"52.800,00",2026-07-01
+Hermosillo,Seguridad,2025,8,"46.200,00",2026-07-01
+Hermosillo,Sistemas,2025,8,"39.600,00",2026-07-01
+Hermosillo,Mantenimiento,2025,9,"145.200,00",2026-07-01
+Hermosillo,Energía,2025,9,"112.200,00",2026-07-01
+Hermosillo,Nómina Indirecta,2025,9,"105.600,00",2026-07-01
+Hermosillo,Fletes,2025,9,"85.800,00",2026-07-01
+Hermosillo,Refacciones,2025,9,"72.600,00",2026-07-01
+Hermosillo,Calidad,2025,9,"52.800,00",2026-07-01
+Hermosillo,Seguridad,2025,9,"46.200,00",2026-07-01
+Hermosillo,Sistemas,2025,9,"39.600,00",2026-07-01
+Hermosillo,Mantenimiento,2025,10,"145.200,00",2026-07-01
+Hermosillo,Energía,2025,10,"112.200,00",2026-07-01
+Hermosillo,Nómina Indirecta,2025,10,"105.600,00",2026-07-01
+Hermosillo,Fletes,2025,10,"85.800,00",2026-07-01
+Hermosillo,Refacciones,2025,10,"72.600,00",2026-07-01
+Hermosillo,Calidad,2025,10,"52.800,00",2026-07-01
+Hermosillo,Seguridad,2025,10,"46.200,00",2026-07-01
+Hermosillo,Sistemas,2025,10,"39.600,00",2026-07-01
+Hermosillo,Mantenimiento,2025,11,"145.200,00",2026-07-01
+Hermosillo,Energía,2025,11,"112.200,00",2026-07-01
+Hermosillo,Nómina Indirecta,2025,11,"105.600,00",2026-07-01
+Hermosillo,Fletes,2025,11,"85.800,00",2026-07-01
+Hermosillo,Refacciones,2025,11,"72.600,00",2026-07-01
+Hermosillo,Calidad,2025,11,"52.800,00",2026-07-01
+Hermosillo,Seguridad,2025,11,"46.200,00",2026-07-01
+Hermosillo,Sistemas,2025,11,"39.600,00",2026-07-01
+Hermosillo,Mantenimiento,2025,12,"145.200,00",2026-07-01
+Hermosillo,Energía,2025,12,"112.200,00",2026-07-01
+Hermosillo,Nómina Indirecta,2025,12,"105.600,00",2026-07-01
+Hermosillo,Fletes,2025,12,"85.800,00",2026-07-01
+Hermosillo,Refacciones,2025,12,"72.600,00",2026-07-01
+Hermosillo,Calidad,2025,12,"52.800,00",2026-07-01
+Hermosillo,Seguridad,2025,12,"46.200,00",2026-07-01
+Hermosillo,Sistemas,2025,12,"39.600,00",2026-07-01
+Hermosillo,Mantenimiento,2026,1,"145.200,00",2026-07-01
+Hermosillo,Energía,2026,1,"112.200,00",2026-07-01
+Hermosillo,Nómina Indirecta,2026,1,"105.600,00",2026-07-01
+Hermosillo,Fletes,2026,1,"85.800,00",2026-07-01
+Hermosillo,Refacciones,2026,1,"72.600,00",2026-07-01
+Hermosillo,Calidad,2026,1,"52.800,00",2026-07-01
+Hermosillo,Seguridad,2026,1,"46.200,00",2026-07-01
+Hermosillo,Sistemas,2026,1,"39.600,00",2026-07-01
+Hermosillo,Mantenimiento,2026,2,"145.200,00",2026-07-01
+Hermosillo,Energía,2026,2,"112.200,00",2026-07-01
+Hermosillo,Nómina Indirecta,2026,2,"105.600,00",2026-07-01
+Hermosillo,Fletes,2026,2,"85.800,00",2026-07-01
+Hermosillo,Refacciones,2026,2,"72.600,00",2026-07-01
+Hermosillo,Calidad,2026,2,"52.800,00",2026-07-01
+Hermosillo,Seguridad,2026,2,"46.200,00",2026-07-01
+Hermosillo,Sistemas,2026,2,"39.600,00",2026-07-01
+Hermosillo,Mantenimiento,2026,3,"145.200,00",2026-07-01
+Hermosillo,Energía,2026,3,"112.200,00",2026-07-01
+Hermosillo,Nómina Indirecta,2026,3,"105.600,00",2026-07-01
+Hermosillo,Fletes,2026,3,"85.800,00",2026-07-01
+Hermosillo,Refacciones,2026,3,"72.600,00",2026-07-01
+Hermosillo,Calidad,2026,3,"52.800,00",2026-07-01
+Hermosillo,Seguridad,2026,3,"46.200,00",2026-07-01
+Hermosillo,Sistemas,2026,3,"39.600,00",2026-07-01
+Hermosillo,Mantenimiento,2026,4,"145.200,00",2026-07-01
+Hermosillo,Energía,2026,4,"112.200,00",2026-07-01
+Hermosillo,Nómina Indirecta,2026,4,"105.600,00",2026-07-01
+Hermosillo,Fletes,2026,4,"85.800,00",2026-07-01
+Hermosillo,Refacciones,2026,4,"72.600,00",2026-07-01
+Hermosillo,Calidad,2026,4,"52.800,00",2026-07-01
+Hermosillo,Seguridad,2026,4,"46.200,00",2026-07-01
+Hermosillo,Sistemas,2026,4,"39.600,00",2026-07-01
+Hermosillo,Mantenimiento,2026,5,"145.200,00",2026-07-01
+Hermosillo,Energía,2026,5,"112.200,00",2026-07-01
+Hermosillo,Nómina Indirecta,2026,5,"105.600,00",2026-07-01
+Hermosillo,Fletes,2026,5,"85.800,00",2026-07-01
+Hermosillo,Refacciones,2026,5,"72.600,00",2026-07-01
+Hermosillo,Calidad,2026,5,"52.800,00",2026-07-01
+Hermosillo,Seguridad,2026,5,"46.200,00",2026-07-01
+Hermosillo,Sistemas,2026,5,"39.600,00",2026-07-01
+Hermosillo,Mantenimiento,2026,6,"145.200,00",2026-07-01
+Hermosillo,Energía,2026,6,"112.200,00",2026-07-01
+Hermosillo,Nómina Indirecta,2026,6,"105.600,00",2026-07-01
+Hermosillo,Fletes,2026,6,"85.800,00",2026-07-01
+Hermosillo,Refacciones,2026,6,"72.600,00",2026-07-01
+Hermosillo,Calidad,2026,6,"52.800,00",2026-07-01
+Hermosillo,Seguridad,2026,6,"46.200,00",2026-07-01
+Hermosillo,Sistemas,2026,6,"39.600,00",2026-07-01
+Cuautitlán,Mantenimiento,2025,1,"154.000,00",2026-07-01
+Cuautitlán,Energía,2025,1,"100.000,00",2026-07-01
+Cuautitlán,Nómina Indirecta,2025,1,"112.000,00",2026-07-01
+Cuautitlán,Fletes,2025,1,"91.000,00",2026-07-01
+Cuautitlán,Refacciones,2025,1,"77.000,00",2026-07-01
+Cuautitlán,Calidad,2025,1,"100.000,00",2026-07-01
+Cuautitlán,Seguridad,2025,1,"49.000,00",2026-07-01
+Cuautitlán,Sistemas,2025,1,"42.000,00",2026-07-01
+Cuautitlán,Mantenimiento,2025,2,"154.000,00",2026-07-01
+Cuautitlán,Energía,2025,2,"100.000,00",2026-07-01
+Cuautitlán,Nómina Indirecta,2025,2,"112.000,00",2026-07-01
+Cuautitlán,Fletes,2025,2,"91.000,00",2026-07-01
+Cuautitlán,Refacciones,2025,2,"77.000,00",2026-07-01
+Cuautitlán,Calidad,2025,2,"100.000,00",2026-07-01
+Cuautitlán,Seguridad,2025,2,"49.000,00",2026-07-01
+Cuautitlán,Sistemas,2025,2,"42.000,00",2026-07-01
+Cuautitlán,Mantenimiento,2025,3,"154.000,00",2026-07-01
+Cuautitlán,Energía,2025,3,"100.000,00",2026-07-01
+Cuautitlán,Nómina Indirecta,2025,3,"112.000,00",2026-07-01
+Cuautitlán,Fletes,2025,3,"91.000,00",2026-07-01
+Cuautitlán,Refacciones,2025,3,"77.000,00",2026-07-01
+Cuautitlán,Calidad,2025,3,"100.000,00",2026-07-01
+Cuautitlán,Seguridad,2025,3,"49.000,00",2026-07-01
+Cuautitlán,Sistemas,2025,3,"42.000,00",2026-07-01
+Cuautitlán,Mantenimiento,2025,4,"154.000,00",2026-07-01
+Cuautitlán,Energía,2025,4,"100.000,00",2026-07-01
+Cuautitlán,Nómina Indirecta,2025,4,"112.000,00",2026-07-01
+Cuautitlán,Fletes,2025,4,"91.000,00",2026-07-01
+Cuautitlán,Refacciones,2025,4,"77.000,00",2026-07-01
+Cuautitlán,Calidad,2025,4,"100.000,00",2026-07-01
+Cuautitlán,Seguridad,2025,4,"49.000,00",2026-07-01
+Cuautitlán,Sistemas,2025,4,"42.000,00",2026-07-01
+Cuautitlán,Mantenimiento,2025,5,"154.000,00",2026-07-01
+Cuautitlán,Energía,2025,5,"100.000,00",2026-07-01
+Cuautitlán,Nómina Indirecta,2025,5,"112.000,00",2026-07-01
+Cuautitlán,Fletes,2025,5,"91.000,00",2026-07-01
+Cuautitlán,Refacciones,2025,5,"77.000,00",2026-07-01
+Cuautitlán,Calidad,2025,5,"100.000,00",2026-07-01
+Cuautitlán,Seguridad,2025,5,"49.000,00",2026-07-01
+Cuautitlán,Sistemas,2025,5,"42.000,00",2026-07-01
+Cuautitlán,Mantenimiento,2025,6,"154.000,00",2026-07-01
+Cuautitlán,Energía,2025,6,"100.000,00",2026-07-01
+Cuautitlán,Nómina Indirecta,2025,6,"112.000,00",2026-07-01
+Cuautitlán,Fletes,2025,6,"91.000,00",2026-07-01
+Cuautitlán,Refacciones,2025,6,"77.000,00",2026-07-01
+Cuautitlán,Calidad,2025,6,"100.000,00",2026-07-01
+Cuautitlán,Seguridad,2025,6,"49.000,00",2026-07-01
+Cuautitlán,Sistemas,2025,6,"42.000,00",2026-07-01
+Cuautitlán,Mantenimiento,2025,7,"154.000,00",2026-07-01
+Cuautitlán,Energía,2025,7,"100.000,00",2026-07-01
+Cuautitlán,Nómina Indirecta,2025,7,"112.000,00",2026-07-01
+Cuautitlán,Fletes,2025,7,"91.000,00",2026-07-01
+Cuautitlán,Refacciones,2025,7,"77.000,00",2026-07-01
+Cuautitlán,Calidad,2025,7,"100.000,00",2026-07-01
+Cuautitlán,Seguridad,2025,7,"49.000,00",2026-07-01
+Cuautitlán,Sistemas,2025,7,"42.000,00",2026-07-01
+Cuautitlán,Mantenimiento,2025,8,"154.000,00",2026-07-01
+Cuautitlán,Energía,2025,8,"119.000,00",2026-07-01
+Cuautitlán,Nómina Indirecta,2025,8,"112.000,00",2026-07-01
+Cuautitlán,Fletes,2025,8,"91.000,00",2026-07-01
+Cuautitlán,Refacciones,2025,8,"77.000,00",2026-07-01
+Cuautitlán,Calidad,2025,8,"100.000,00",2026-07-01
+Cuautitlán,Seguridad,2025,8,"49.000,00",2026-07-01
+Cuautitlán,Sistemas,2025,8,"42.000,00",2026-07-01
+Cuautitlán,Mantenimiento,2025,9,"154.000,00",2026-07-01
+Cuautitlán,Energía,2025,9,"119.000,00",2026-07-01
+Cuautitlán,Nómina Indirecta,2025,9,"112.000,00",2026-07-01
+Cuautitlán,Fletes,2025,9,"91.000,00",2026-07-01
+Cuautitlán,Refacciones,2025,9,"77.000,00",2026-07-01
+Cuautitlán,Calidad,2025,9,"100.000,00",2026-07-01
+Cuautitlán,Seguridad,2025,9,"49.000,00",2026-07-01
+Cuautitlán,Sistemas,2025,9,"42.000,00",2026-07-01
+Cuautitlán,Mantenimiento,2025,10,"154.000,00",2026-07-01
+Cuautitlán,Energía,2025,10,"119.000,00",2026-07-01
+Cuautitlán,Nómina Indirecta,2025,10,"112.000,00",2026-07-01
+Cuautitlán,Fletes,2025,10,"91.000,00",2026-07-01
+Cuautitlán,Refacciones,2025,10,"77.000,00",2026-07-01
+Cuautitlán,Calidad,2025,10,"100.000,00",2026-07-01
+Cuautitlán,Seguridad,2025,10,"49.000,00",2026-07-01
+Cuautitlán,Sistemas,2025,10,"42.000,00",2026-07-01
+Cuautitlán,Mantenimiento,2025,11,"154.000,00",2026-07-01
+Cuautitlán,Energía,2025,11,"119.000,00",2026-07-01
+Cuautitlán,Nómina Indirecta,2025,11,"112.000,00",2026-07-01
+Cuautitlán,Fletes,2025,11,"91.000,00",2026-07-01
+Cuautitlán,Refacciones,2025,11,"77.000,00",2026-07-01
+Cuautitlán,Calidad,2025,11,"100.000,00",2026-07-01
+Cuautitlán,Seguridad,2025,11,"49.000,00",2026-07-01
+Cuautitlán,Sistemas,2025,11,"42.000,00",2026-07-01
+Cuautitlán,Mantenimiento,2025,12,"154.000,00",2026-07-01
+Cuautitlán,Energía,2025,12,"119.000,00",2026-07-01
+Cuautitlán,Nómina Indirecta,2025,12,"112.000,00",2026-07-01
+Cuautitlán,Fletes,2025,12,"91.000,00",2026-07-01
+Cuautitlán,Refacciones,2025,12,"77.000,00",2026-07-01
+Cuautitlán,Calidad,2025,12,"100.000,00",2026-07-01
+Cuautitlán,Seguridad,2025,12,"49.000,00",2026-07-01
+Cuautitlán,Sistemas,2025,12,"42.000,00",2026-07-01
+Cuautitlán,Mantenimiento,2026,1,"154.000,00",2026-07-01
+Cuautitlán,Energía,2026,1,"119.000,00",2026-07-01
+Cuautitlán,Nómina Indirecta,2026,1,"112.000,00",2026-07-01
+Cuautitlán,Fletes,2026,1,"91.000,00",2026-07-01
+Cuautitlán,Refacciones,2026,1,"77.000,00",2026-07-01
+Cuautitlán,Calidad,2026,1,"100.000,00",2026-07-01
+Cuautitlán,Seguridad,2026,1,"49.000,00",2026-07-01
+Cuautitlán,Sistemas,2026,1,"42.000,00",2026-07-01
+Cuautitlán,Mantenimiento,2026,2,"154.000,00",2026-07-01
+Cuautitlán,Energía,2026,2,"119.000,00",2026-07-01
+Cuautitlán,Nómina Indirecta,2026,2,"112.000,00",2026-07-01
+Cuautitlán,Fletes,2026,2,"91.000,00",2026-07-01
+Cuautitlán,Refacciones,2026,2,"77.000,00",2026-07-01
+Cuautitlán,Calidad,2026,2,"100.000,00",2026-07-01
+Cuautitlán,Seguridad,2026,2,"49.000,00",2026-07-01
+Cuautitlán,Sistemas,2026,2,"42.000,00",2026-07-01
+Cuautitlán,Mantenimiento,2026,3,"154.000,00",2026-07-01
+Cuautitlán,Energía,2026,3,"119.000,00",2026-07-01
+Cuautitlán,Nómina Indirecta,2026,3,"112.000,00",2026-07-01
+Cuautitlán,Fletes,2026,3,"91.000,00",2026-07-01
+Cuautitlán,Refacciones,2026,3,"77.000,00",2026-07-01
+Cuautitlán,Calidad,2026,3,"100.000,00",2026-07-01
+Cuautitlán,Seguridad,2026,3,"49.000,00",2026-07-01
+Cuautitlán,Sistemas,2026,3,"42.000,00",2026-07-01
+Cuautitlán,Mantenimiento,2026,4,"154.000,00",2026-07-01
+Cuautitlán,Energía,2026,4,"119.000,00",2026-07-01
+Cuautitlán,Nómina Indirecta,2026,4,"112.000,00",2026-07-01
+Cuautitlán,Fletes,2026,4,"91.000,00",2026-07-01
+Cuautitlán,Refacciones,2026,4,"77.000,00",2026-07-01
+Cuautitlán,Calidad,2026,4,"100.000,00",2026-07-01
+Cuautitlán,Seguridad,2026,4,"49.000,00",2026-07-01
+Cuautitlán,Sistemas,2026,4,"42.000,00",2026-07-01
+Cuautitlán,Mantenimiento,2026,5,"154.000,00",2026-07-01
+Cuautitlán,Energía,2026,5,"119.000,00",2026-07-01
+Cuautitlán,Nómina Indirecta,2026,5,"112.000,00",2026-07-01
+Cuautitlán,Fletes,2026,5,"91.000,00",2026-07-01
+Cuautitlán,Refacciones,2026,5,"77.000,00",2026-07-01
+Cuautitlán,Calidad,2026,5,"100.000,00",2026-07-01
+Cuautitlán,Seguridad,2026,5,"49.000,00",2026-07-01
+Cuautitlán,Sistemas,2026,5,"42.000,00",2026-07-01
+Cuautitlán,Mantenimiento,2026,6,"154.000,00",2026-07-01
+Cuautitlán,Energía,2026,6,"119.000,00",2026-07-01
+Cuautitlán,Nómina Indirecta,2026,6,"112.000,00",2026-07-01
+Cuautitlán,Fletes,2026,6,"91.000,00",2026-07-01
+Cuautitlán,Refacciones,2026,6,"77.000,00",2026-07-01
+Cuautitlán,Calidad,2026,6,"100.000,00",2026-07-01
+Cuautitlán,Seguridad,2026,6,"49.000,00",2026-07-01
+Cuautitlán,Sistemas,2026,6,"42.000,00",2026-07-01
+Chihuahua,Mantenimiento,2025,1,"171.600,00",2026-07-01
+Chihuahua,Energía,2025,1,"132.600,00",2026-07-01
+Chihuahua,Nómina Indirecta,2025,1,"124.800,00",2026-07-01
+Chihuahua,Fletes,2025,1,"101.400,00",2026-07-01
+Chihuahua,Refacciones,2025,1,"85.800,00",2026-07-01
+Chihuahua,Calidad,2025,1,"62.400,00",2026-07-01
+Chihuahua,Seguridad,2025,1,"54.600,00",2026-07-01
+Chihuahua,Sistemas,2025,1,"46.800,00",2026-07-01
+Chihuahua,Mantenimiento,2025,2,"171.600,00",2026-07-01
+Chihuahua,Energía,2025,2,"132.600,00",2026-07-01
+Chihuahua,Nómina Indirecta,2025,2,"124.800,00",2026-07-01
+Chihuahua,Fletes,2025,2,"101.400,00",2026-07-01
+Chihuahua,Refacciones,2025,2,"85.800,00",2026-07-01
+Chihuahua,Calidad,2025,2,"62.400,00",2026-07-01
+Chihuahua,Seguridad,2025,2,"54.600,00",2026-07-01
+Chihuahua,Sistemas,2025,2,"46.800,00",2026-07-01
+Chihuahua,Mantenimiento,2025,3,"171.600,00",2026-07-01
+Chihuahua,Energía,2025,3,"132.600,00",2026-07-01
+Chihuahua,Nómina Indirecta,2025,3,"124.800,00",2026-07-01
+Chihuahua,Fletes,2025,3,"101.400,00",2026-07-01
+Chihuahua,Refacciones,2025,3,"85.800,00",2026-07-01
+Chihuahua,Calidad,2025,3,"62.400,00",2026-07-01
+Chihuahua,Seguridad,2025,3,"54.600,00",2026-07-01
+Chihuahua,Sistemas,2025,3,"46.800,00",2026-07-01
+Chihuahua,Mantenimiento,2025,4,"171.600,00",2026-07-01
+Chihuahua,Energía,2025,4,"132.600,00",2026-07-01
+Chihuahua,Nómina Indirecta,2025,4,"124.800,00",2026-07-01
+Chihuahua,Fletes,2025,4,"101.400,00",2026-07-01
+Chihuahua,Refacciones,2025,4,"85.800,00",2026-07-01
+Chihuahua,Calidad,2025,4,"62.400,00",2026-07-01
+Chihuahua,Seguridad,2025,4,"54.600,00",2026-07-01
+Chihuahua,Sistemas,2025,4,"46.800,00",2026-07-01
+Chihuahua,Mantenimiento,2025,5,"171.600,00",2026-07-01
+Chihuahua,Energía,2025,5,"132.600,00",2026-07-01
+Chihuahua,Nómina Indirecta,2025,5,"124.800,00",2026-07-01
+Chihuahua,Fletes,2025,5,"101.400,00",2026-07-01
+Chihuahua,Refacciones,2025,5,"85.800,00",2026-07-01
+Chihuahua,Calidad,2025,5,"62.400,00",2026-07-01
+Chihuahua,Seguridad,2025,5,"54.600,00",2026-07-01
+Chihuahua,Sistemas,2025,5,"46.800,00",2026-07-01
+Chihuahua,Mantenimiento,2025,6,"171.600,00",2026-07-01
+Chihuahua,Energía,2025,6,"132.600,00",2026-07-01
+Chihuahua,Nómina Indirecta,2025,6,"124.800,00",2026-07-01
+Chihuahua,Fletes,2025,6,"101.400,00",2026-07-01
+Chihuahua,Refacciones,2025,6,"85.800,00",2026-07-01
+Chihuahua,Calidad,2025,6,"62.400,00",2026-07-01
+Chihuahua,Seguridad,2025,6,"54.600,00",2026-07-01
+Chihuahua,Sistemas,2025,6,"46.800,00",2026-07-01
+Chihuahua,Mantenimiento,2025,7,"171.600,00",2026-07-01
+Chihuahua,Energía,2025,7,"132.600,00",2026-07-01
+Chihuahua,Nómina Indirecta,2025,7,"124.800,00",2026-07-01
+Chihuahua,Fletes,2025,7,"101.400,00",2026-07-01
+Chihuahua,Refacciones,2025,7,"85.800,00",2026-07-01
+Chihuahua,Calidad,2025,7,"62.400,00",2026-07-01
+Chihuahua,Seguridad,2025,7,"54.600,00",2026-07-01
+Chihuahua,Sistemas,2025,7,"46.800,00",2026-07-01
+Chihuahua,Mantenimiento,2025,8,"171.600,00",2026-07-01
+Chihuahua,Energía,2025,8,"132.600,00",2026-07-01
+Chihuahua,Nómina Indirecta,2025,8,"124.800,00",2026-07-01
+Chihuahua,Fletes,2025,8,"101.400,00",2026-07-01
+Chihuahua,Refacciones,2025,8,"85.800,00",2026-07-01
+Chihuahua,Calidad,2025,8,"62.400,00",2026-07-01
+Chihuahua,Seguridad,2025,8,"54.600,00",2026-07-01
+Chihuahua,Sistemas,2025,8,"46.800,00",2026-07-01
+Chihuahua,Mantenimiento,2025,9,"171.600,00",2026-07-01
+Chihuahua,Energía,2025,9,"132.600,00",2026-07-01
+Chihuahua,Nómina Indirecta,2025,9,"124.800,00",2026-07-01
+Chihuahua,Fletes,2025,9,"101.400,00",2026-07-01
+Chihuahua,Refacciones,2025,9,"85.800,00",2026-07-01
+Chihuahua,Calidad,2025,9,"62.400,00",2026-07-01
+Chihuahua,Seguridad,2025,9,"54.600,00",2026-07-01
+Chihuahua,Sistemas,2025,9,"46.800,00",2026-07-01
+Chihuahua,Mantenimiento,2025,10,"171.600,00",2026-07-01
+Chihuahua,Energía,2025,10,"132.600,00",2026-07-01
+Chihuahua,Nómina Indirecta,2025,10,"124.800,00",2026-07-01
+Chihuahua,Fletes,2025,10,"101.400,00",2026-07-01
+Chihuahua,Refacciones,2025,10,"85.800,00",2026-07-01
+Chihuahua,Calidad,2025,10,"62.400,00",2026-07-01
+Chihuahua,Seguridad,2025,10,"54.600,00",2026-07-01
+Chihuahua,Sistemas,2025,10,"46.800,00",2026-07-01
+Chihuahua,Mantenimiento,2025,11,"171.600,00",2026-07-01
+Chihuahua,Energía,2025,11,"132.600,00",2026-07-01
+Chihuahua,Nómina Indirecta,2025,11,"124.800,00",2026-07-01
+Chihuahua,Fletes,2025,11,"101.400,00",2026-07-01
+Chihuahua,Refacciones,2025,11,"85.800,00",2026-07-01
+Chihuahua,Calidad,2025,11,"62.400,00",2026-07-01
+Chihuahua,Seguridad,2025,11,"54.600,00",2026-07-01
+Chihuahua,Sistemas,2025,11,"46.800,00",2026-07-01
+Chihuahua,Mantenimiento,2025,12,"171.600,00",2026-07-01
+Chihuahua,Energía,2025,12,"132.600,00",2026-07-01
+Chihuahua,Nómina Indirecta,2025,12,"124.800,00",2026-07-01
+Chihuahua,Fletes,2025,12,"101.400,00",2026-07-01
+Chihuahua,Refacciones,2025,12,"85.800,00",2026-07-01
+Chihuahua,Calidad,2025,12,"62.400,00",2026-07-01
+Chihuahua,Seguridad,2025,12,"54.600,00",2026-07-01
+Chihuahua,Sistemas,2025,12,"46.800,00",2026-07-01
+Chihuahua,Mantenimiento,2026,1,"171.600,00",2026-07-01
+Chihuahua,Energía,2026,1,"132.600,00",2026-07-01
+Chihuahua,Nómina Indirecta,2026,1,"124.800,00",2026-07-01
+Chihuahua,Fletes,2026,1,"101.400,00",2026-07-01
+Chihuahua,Refacciones,2026,1,"85.800,00",2026-07-01
+Chihuahua,Calidad,2026,1,"62.400,00",2026-07-01
+Chihuahua,Seguridad,2026,1,"54.600,00",2026-07-01
+Chihuahua,Sistemas,2026,1,"46.800,00",2026-07-01
+Chihuahua,Mantenimiento,2026,2,"171.600,00",2026-07-01
+Chihuahua,Energía,2026,2,"132.600,00",2026-07-01
+Chihuahua,Nómina Indirecta,2026,2,"124.800,00",2026-07-01
+Chihuahua,Fletes,2026,2,"101.400,00",2026-07-01
+Chihuahua,Refacciones,2026,2,"85.800,00",2026-07-01
+Chihuahua,Calidad,2026,2,"62.400,00",2026-07-01
+Chihuahua,Seguridad,2026,2,"54.600,00",2026-07-01
+Chihuahua,Sistemas,2026,2,"46.800,00",2026-07-01
+Chihuahua,Mantenimiento,2026,3,"171.600,00",2026-07-01
+Chihuahua,Energía,2026,3,"132.600,00",2026-07-01
+Chihuahua,Nómina Indirecta,2026,3,"124.800,00",2026-07-01
+Chihuahua,Fletes,2026,3,"101.400,00",2026-07-01
+Chihuahua,Refacciones,2026,3,"85.800,00",2026-07-01
+Chihuahua,Calidad,2026,3,"62.400,00",2026-07-01
+Chihuahua,Seguridad,2026,3,"54.600,00",2026-07-01
+Chihuahua,Sistemas,2026,3,"46.800,00",2026-07-01
+Chihuahua,Mantenimiento,2026,4,"171.600,00",2026-07-01
+Chihuahua,Energía,2026,4,"132.600,00",2026-07-01
+Chihuahua,Nómina Indirecta,2026,4,"124.800,00",2026-07-01
+Chihuahua,Fletes,2026,4,"101.400,00",2026-07-01
+Chihuahua,Refacciones,2026,4,"85.800,00",2026-07-01
+Chihuahua,Calidad,2026,4,"62.400,00",2026-07-01
+Chihuahua,Seguridad,2026,4,"54.600,00",2026-07-01
+Chihuahua,Sistemas,2026,4,"46.800,00",2026-07-01
+Chihuahua,Mantenimiento,2026,5,"171.600,00",2026-07-01
+Chihuahua,Energía,2026,5,"132.600,00",2026-07-01
+Chihuahua,Nómina Indirecta,2026,5,"124.800,00",2026-07-01
+Chihuahua,Fletes,2026,5,"101.400,00",2026-07-01
+Chihuahua,Refacciones,2026,5,"85.800,00",2026-07-01
+Chihuahua,Calidad,2026,5,"62.400,00",2026-07-01
+Chihuahua,Seguridad,2026,5,"54.600,00",2026-07-01
+Chihuahua,Sistemas,2026,5,"46.800,00",2026-07-01
+Chihuahua,Mantenimiento,2026,6,"171.600,00",2026-07-01
+Chihuahua,Energía,2026,6,"132.600,00",2026-07-01
+Chihuahua,Nómina Indirecta,2026,6,"124.800,00",2026-07-01
+Chihuahua,Fletes,2026,6,"101.400,00",2026-07-01
+Chihuahua,Refacciones,2026,6,"85.800,00",2026-07-01
+Chihuahua,Calidad,2026,6,"62.400,00",2026-07-01
+Chihuahua,Seguridad,2026,6,"54.600,00",2026-07-01
+Chihuahua,Sistemas,2026,6,"46.800,00",2026-07-01
+Irapuato,Mantenimiento,2025,1,"118.800,00",2026-07-01
+Irapuato,Energía,2025,1,"91.800,00",2026-07-01
+Irapuato,Nómina Indirecta,2025,1,"86.400,00",2026-07-01
+Irapuato,Fletes,2025,1,"70.200,00",2026-07-01
+Irapuato,Refacciones,2025,1,"59.400,00",2026-07-01
+Irapuato,Calidad,2025,1,"43.200,00",2026-07-01
+Irapuato,Seguridad,2025,1,"37.800,00",2026-07-01
+Irapuato,Sistemas,2025,1,"32.400,00",2026-07-01
+Irapuato,Mantenimiento,2025,2,"118.800,00",2026-07-01
+Irapuato,Energía,2025,2,"91.800,00",2026-07-01
+Irapuato,Nómina Indirecta,2025,2,"86.400,00",2026-07-01
+Irapuato,Fletes,2025,2,"70.200,00",2026-07-01
+Irapuato,Refacciones,2025,2,"59.400,00",2026-07-01
+Irapuato,Calidad,2025,2,"43.200,00",2026-07-01
+Irapuato,Seguridad,2025,2,"37.800,00",2026-07-01
+Irapuato,Sistemas,2025,2,"32.400,00",2026-07-01
+Irapuato,Mantenimiento,2025,3,"118.800,00",2026-07-01
+Irapuato,Energía,2025,3,"91.800,00",2026-07-01
+Irapuato,Nómina Indirecta,2025,3,"86.400,00",2026-07-01
+Irapuato,Fletes,2025,3,"70.200,00",2026-07-01
+Irapuato,Refacciones,2025,3,"59.400,00",2026-07-01
+Irapuato,Calidad,2025,3,"43.200,00",2026-07-01
+Irapuato,Seguridad,2025,3,"37.800,00",2026-07-01
+Irapuato,Sistemas,2025,3,"32.400,00",2026-07-01
+Irapuato,Mantenimiento,2025,4,"118.800,00",2026-07-01
+Irapuato,Energía,2025,4,"91.800,00",2026-07-01
+Irapuato,Nómina Indirecta,2025,4,"86.400,00",2026-07-01
+Irapuato,Fletes,2025,4,"70.200,00",2026-07-01
+Irapuato,Refacciones,2025,4,"59.400,00",2026-07-01
+Irapuato,Calidad,2025,4,"43.200,00",2026-07-01
+Irapuato,Seguridad,2025,4,"37.800,00",2026-07-01
+Irapuato,Sistemas,2025,4,"32.400,00",2026-07-01
+Irapuato,Mantenimiento,2025,5,"118.800,00",2026-07-01
+Irapuato,Energía,2025,5,"91.800,00",2026-07-01
+Irapuato,Nómina Indirecta,2025,5,"86.400,00",2026-07-01
+Irapuato,Fletes,2025,5,"70.200,00",2026-07-01
+Irapuato,Refacciones,2025,5,"59.400,00",2026-07-01
+Irapuato,Calidad,2025,5,"43.200,00",2026-07-01
+Irapuato,Seguridad,2025,5,"37.800,00",2026-07-01
+Irapuato,Sistemas,2025,5,"32.400,00",2026-07-01
+Irapuato,Mantenimiento,2025,6,"118.800,00",2026-07-01
+Irapuato,Energía,2025,6,"91.800,00",2026-07-01
+Irapuato,Nómina Indirecta,2025,6,"86.400,00",2026-07-01
+Irapuato,Fletes,2025,6,"70.200,00",2026-07-01
+Irapuato,Refacciones,2025,6,"59.400,00",2026-07-01
+Irapuato,Calidad,2025,6,"43.200,00",2026-07-01
+Irapuato,Seguridad,2025,6,"37.800,00",2026-07-01
+Irapuato,Sistemas,2025,6,"32.400,00",2026-07-01
+Irapuato,Mantenimiento,2025,7,"118.800,00",2026-07-01
+Irapuato,Energía,2025,7,"91.800,00",2026-07-01
+Irapuato,Nómina Indirecta,2025,7,"86.400,00",2026-07-01
+Irapuato,Fletes,2025,7,"70.200,00",2026-07-01
+Irapuato,Refacciones,2025,7,"59.400,00",2026-07-01
+Irapuato,Calidad,2025,7,"43.200,00",2026-07-01
+Irapuato,Seguridad,2025,7,"37.800,00",2026-07-01
+Irapuato,Sistemas,2025,7,"32.400,00",2026-07-01
+Irapuato,Mantenimiento,2025,8,"118.800,00",2026-07-01
+Irapuato,Energía,2025,8,"91.800,00",2026-07-01
+Irapuato,Nómina Indirecta,2025,8,"86.400,00",2026-07-01
+Irapuato,Fletes,2025,8,"70.200,00",2026-07-01
+Irapuato,Refacciones,2025,8,"59.400,00",2026-07-01
+Irapuato,Calidad,2025,8,"43.200,00",2026-07-01
+Irapuato,Seguridad,2025,8,"37.800,00",2026-07-01
+Irapuato,Sistemas,2025,8,"32.400,00",2026-07-01
+Irapuato,Mantenimiento,2025,9,"118.800,00",2026-07-01
+Irapuato,Energía,2025,9,"91.800,00",2026-07-01
+Irapuato,Nómina Indirecta,2025,9,"86.400,00",2026-07-01
+Irapuato,Fletes,2025,9,"70.200,00",2026-07-01
+Irapuato,Refacciones,2025,9,"59.400,00",2026-07-01
+Irapuato,Calidad,2025,9,"43.200,00",2026-07-01
+Irapuato,Seguridad,2025,9,"37.800,00",2026-07-01
+Irapuato,Sistemas,2025,9,"32.400,00",2026-07-01
+Irapuato,Mantenimiento,2025,10,"118.800,00",2026-07-01
+Irapuato,Energía,2025,10,"91.800,00",2026-07-01
+Irapuato,Nómina Indirecta,2025,10,"86.400,00",2026-07-01
+Irapuato,Fletes,2025,10,"70.200,00",2026-07-01
+Irapuato,Refacciones,2025,10,"59.400,00",2026-07-01
+Irapuato,Calidad,2025,10,"43.200,00",2026-07-01
+Irapuato,Seguridad,2025,10,"37.800,00",2026-07-01
+Irapuato,Sistemas,2025,10,"32.400,00",2026-07-01
+Irapuato,Mantenimiento,2025,11,"118.800,00",2026-07-01
+Irapuato,Energía,2025,11,"91.800,00",2026-07-01
+Irapuato,Nómina Indirecta,2025,11,"86.400,00",2026-07-01
+Irapuato,Fletes,2025,11,"70.200,00",2026-07-01
+Irapuato,Refacciones,2025,11,"59.400,00",2026-07-01
+Irapuato,Calidad,2025,11,"43.200,00",2026-07-01
+Irapuato,Seguridad,2025,11,"37.800,00",2026-07-01
+Irapuato,Sistemas,2025,11,"32.400,00",2026-07-01
+Irapuato,Mantenimiento,2025,12,"118.800,00",2026-07-01
+Irapuato,Energía,2025,12,"91.800,00",2026-07-01
+Irapuato,Nómina Indirecta,2025,12,"86.400,00",2026-07-01
+Irapuato,Fletes,2025,12,"70.200,00",2026-07-01
+Irapuato,Refacciones,2025,12,"59.400,00",2026-07-01
+Irapuato,Calidad,2025,12,"43.200,00",2026-07-01
+Irapuato,Seguridad,2025,12,"37.800,00",2026-07-01
+Irapuato,Sistemas,2025,12,"32.400,00",2026-07-01
+Irapuato,Mantenimiento,2026,1,"118.800,00",2026-07-01
+Irapuato,Energía,2026,1,"91.800,00",2026-07-01
+Irapuato,Nómina Indirecta,2026,1,"86.400,00",2026-07-01
+Irapuato,Fletes,2026,1,"70.200,00",2026-07-01
+Irapuato,Refacciones,2026,1,"59.400,00",2026-07-01
+Irapuato,Calidad,2026,1,"43.200,00",2026-07-01
+Irapuato,Seguridad,2026,1,"37.800,00",2026-07-01
+Irapuato,Sistemas,2026,1,"32.400,00",2026-07-01
+Irapuato,Mantenimiento,2026,2,"118.800,00",2026-07-01
+Irapuato,Energía,2026,2,"91.800,00",2026-07-01
+Irapuato,Nómina Indirecta,2026,2,"86.400,00",2026-07-01
+Irapuato,Fletes,2026,2,"70.200,00",2026-07-01
+Irapuato,Refacciones,2026,2,"59.400,00",2026-07-01
+Irapuato,Calidad,2026,2,"43.200,00",2026-07-01
+Irapuato,Seguridad,2026,2,"37.800,00",2026-07-01
+Irapuato,Sistemas,2026,2,"32.400,00",2026-07-01
+Irapuato,Mantenimiento,2026,3,"118.800,00",2026-07-01
+Irapuato,Energía,2026,3,"91.800,00",2026-07-01
+Irapuato,Nómina Indirecta,2026,3,"86.400,00",2026-07-01
+Irapuato,Fletes,2026,3,"70.200,00",2026-07-01
+Irapuato,Refacciones,2026,3,"59.400,00",2026-07-01
+Irapuato,Calidad,2026,3,"43.200,00",2026-07-01
+Irapuato,Seguridad,2026,3,"37.800,00",2026-07-01
+Irapuato,Sistemas,2026,3,"32.400,00",2026-07-01
+Irapuato,Mantenimiento,2026,4,"118.800,00",2026-07-01
+Irapuato,Energía,2026,4,"91.800,00",2026-07-01
+Irapuato,Nómina Indirecta,2026,4,"86.400,00",2026-07-01
+Irapuato,Fletes,2026,4,"70.200,00",2026-07-01
+Irapuato,Refacciones,2026,4,"59.400,00",2026-07-01
+Irapuato,Calidad,2026,4,"43.200,00",2026-07-01
+Irapuato,Seguridad,2026,4,"37.800,00",2026-07-01
+Irapuato,Sistemas,2026,4,"32.400,00",2026-07-01
+Irapuato,Mantenimiento,2026,5,"118.800,00",2026-07-01
+Irapuato,Energía,2026,5,"91.800,00",2026-07-01
+Irapuato,Nómina Indirecta,2026,5,"86.400,00",2026-07-01
+Irapuato,Fletes,2026,5,"70.200,00",2026-07-01
+Irapuato,Refacciones,2026,5,"59.400,00",2026-07-01
+Irapuato,Calidad,2026,5,"43.200,00",2026-07-01
+Irapuato,Seguridad,2026,5,"37.800,00",2026-07-01
+Irapuato,Sistemas,2026,5,"32.400,00",2026-07-01
+Irapuato,Mantenimiento,2026,6,"118.800,00",2026-07-01
+Irapuato,Energía,2026,6,"91.800,00",2026-07-01
+Irapuato,Nómina Indirecta,2026,6,"86.400,00",2026-07-01
+Irapuato,Fletes,2026,6,"70.200,00",2026-07-01
+Irapuato,Refacciones,2026,6,"59.400,00",2026-07-01
+Irapuato,Calidad,2026,6,"43.200,00",2026-07-01
+Irapuato,Seguridad,2026,6,"37.800,00",2026-07-01
+Irapuato,Sistemas,2026,6,"32.400,00",2026-07-01
+Cuautitlán,Calidad,2025,1,"100.000,00",2026-07-03
+Cuautitlán,Calidad,2025,2,"100.000,00",2026-07-03
+Cuautitlán,Calidad,2025,3,"100.000,00",2026-07-03
+Cuautitlán,Calidad,2025,4,"100.000,00",2026-07-03
+Cuautitlán,Calidad,2025,5,"100.000,00",2026-07-03
+Cuautitlán,Calidad,2025,6,"100.000,00",2026-07-03
+Cuautitlán,Calidad,2025,7,"100.000,00",2026-07-03
+Cuautitlán,Calidad,2025,8,"100.000,00",2026-07-03
+Cuautitlán,Calidad,2025,9,"100.000,00",2026-07-03
+Cuautitlán,Calidad,2025,10,"100.000,00",2026-07-03
+Cuautitlán,Calidad,2025,11,"100.000,00",2026-07-03
+Cuautitlán,Calidad,2025,12,"100.000,00",2026-07-03
+Cuautitlán,Calidad,2026,1,"100.000,00",2026-07-03
+Cuautitlán,Calidad,2026,2,"100.000,00",2026-07-03
+Cuautitlán,Calidad,2026,3,"100.000,00",2026-07-03
+Cuautitlán,Calidad,2026,4,"100.000,00",2026-07-03
+Cuautitlán,Calidad,2026,5,"100.000,00",2026-07-03
+Cuautitlán,Calidad,2026,6,"100.000,00",2026-07-03
+Cuautitlán,Energía,2025,1,"100.000,00",2026-07-03
+Cuautitlán,Energía,2025,2,"100.000,00",2026-07-03
+Cuautitlán,Energía,2025,3,"100.000,00",2026-07-03
+Cuautitlán,Energía,2025,4,"100.000,00",2026-07-03
+Cuautitlán,Energía,2025,5,"100.000,00",2026-07-03
+Cuautitlán,Energía,2025,6,"100.000,00",2026-07-03
+Cuautitlán,Energía,2025,7,"100.000,00",2026-07-03
