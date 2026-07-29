@@ -28,8 +28,8 @@ Abre **PowerShell** y ejecuta:
 
 ```powershell
 cd $HOME\Documents
-git clone https://github.com/<organizacion>/curso-cierre-datos-financieros.git
-cd curso-cierre-datos-financieros
+git clone https://github.com/vsosahdz/capstone-Project-FA-2026.git
+cd capstone-Project-FA-2026
 ```
 
 > Si no tienes `git`, descarga el ZIP del repositorio desde GitHub
@@ -53,7 +53,7 @@ py -m venv .venv
 Debe aparecer `(.venv)` al inicio de la línea:
 
 ```
-(.venv) PS C:\Users\tu-usuario\Documents\curso-cierre-datos-financieros>
+(.venv) PS C:\Users\tu-usuario\Documents\capstone-Project-FA-2026>
 ```
 
 > ⚠️ Si sale un error rojo sobre "ejecución de scripts", ve al
@@ -112,8 +112,8 @@ Los mismos ocho pasos, con dos comandos distintos. En macOS casi nunca falla.
 ```bash
 # Paso 1 · Descargar el curso
 cd ~/Documents
-git clone https://github.com/<organizacion>/curso-cierre-datos-financieros.git
-cd curso-cierre-datos-financieros
+git clone https://github.com/vsosahdz/capstone-Project-FA-2026.git
+cd capstone-Project-FA-2026
 
 # Paso 2 · Crear el entorno virtual  (python3, no py)
 python3.12 -m venv .venv
